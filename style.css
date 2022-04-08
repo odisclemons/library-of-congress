@@ -1,0 +1,10 @@
+/* this is a basic css file */
+
+html {
+  background-color: black;
+  color: #fff;
+}
+
+h1 {
+  color: deeppink;
+}
